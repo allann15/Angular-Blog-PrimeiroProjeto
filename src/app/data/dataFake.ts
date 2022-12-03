@@ -10,7 +10,8 @@ export const dataFake = [
     "id": "2",
     "photoCover": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2022/08/wandinha-netflix.jpg",
     "title": "Wandinha nova série da Netflix",
-    "description": "Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos. Assista o quanto quiser. Tim Burton dirige esta série sombria e divertida estrelada por Jenna Ortega"
+    "description": "Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos." + "\n" +  
+    "Assista o quanto quiser. Tim Burton dirige esta série sombria e divertida estrelada por Jenna Ortega"
 },
 {
     "id": "3",
